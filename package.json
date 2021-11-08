@@ -1,0 +1,15 @@
+{
+  "name": "Eva32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.js",
+  "scripts": {
+    "build": "tailwindcss build tailwind.css -o tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
